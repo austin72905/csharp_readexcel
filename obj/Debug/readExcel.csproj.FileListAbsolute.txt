@@ -1,0 +1,17 @@
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\readExcel.exe.config
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\readExcel.exe
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\readExcel.pdb
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\obj\Debug\readExcel.csprojAssemblyReference.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\obj\Debug\readExcel.csproj.CoreCompileInputs.cache
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\obj\Debug\readExcel.exe
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\obj\Debug\readExcel.pdb
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\NPOI.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\NPOI.OOXML.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\JIN78\Desktop\littleBlackWindows\readExcel\obj\Debug\readExcel.csproj.CopyComplete
